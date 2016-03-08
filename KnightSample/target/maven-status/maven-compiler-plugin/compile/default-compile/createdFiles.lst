@@ -1,0 +1,6 @@
+com\mp\classes\MainClass.class
+com\mp\classes\Minstrel.class
+com\mp\interfaces\IKnight.class
+com\mp\interfaces\IQuest.class
+com\mp\classes\Quest.class
+com\mp\classes\BraveKnight.class
