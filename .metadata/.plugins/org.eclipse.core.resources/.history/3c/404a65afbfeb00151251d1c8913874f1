@@ -1,0 +1,8 @@
+package com.mp.junitsample.tests;
+
+import org.junit.Test;
+
+
+public class CalcClassTests {
+
+}

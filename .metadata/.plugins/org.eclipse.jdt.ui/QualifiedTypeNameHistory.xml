@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pogorzelskimarcin.HelloBean"/>
+<fullyQualifiedTypeName name="com.mp.interfaces.IQuest"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.mp.interfaces.IKnight"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.StaticApplicationContext"/>
+<fullyQualifiedTypeName name="com.mp.springidol.classes.MainApp"/>
+<fullyQualifiedTypeName name="com.mp.springidol.classes.Instrumentalist"/>
+<fullyQualifiedTypeName name="com.mp.springidol.classes.Juggler"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="com.mp.springidol.classes.Saxophone"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.mp.junitsample.classes.CalcClass"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="com.mp.springidol.interfaces.Performer"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="com.mp.springidol.classes.OneManBand"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.mp.springidol.interfaces.Instrument"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+</qualifiedTypeNameHistroy>

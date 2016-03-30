@@ -2,6 +2,7 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:p="http://www.springframework.org/schema/p"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
     http://www.springframework.org/schema/aop 
@@ -17,6 +18,9 @@
 	<bean
 		id="saxophone" 
 		class="com.mp.springidol.classes.Saxophone"></bean>
+		<bean
+		id="guitar" 
+		class="com.mp.springidol.classes.Guitar"></bean>
 	<bean 
 		id="auditorium" 
 		class="com.mp.springidol.classes.Auditorium" 
@@ -24,8 +28,25 @@
 		destroy-method="turnOffLights"></bean>
 	<bean
 		id="kenny"
+		class="com.mp.springidol.classes.Instrumentalist"
+		p:song="Jingle Bells"
+		p:instrument-ref="saxophone">
+		</bean>
+		<bean id="tom"
 		class="com.mp.springidol.classes.Instrumentalist">
-		<property name="song" value="Jingle Bells"></property>
-		<property name="instrument" ref="saxophone"></property>
+		<property name="song" value="Tom's song"></property>
+		<property name="instrument">
+			<bean  class="com.mp.springidol.classes.Piano"></bean>
+		</property>
+		</bean>
+		<bean 
+		id="hank"
+		class="com.mp.springidol.classes.OneManBand">
+			<property name="instruments">
+				<map>
+					<entry key="SAXOPHONE" value-ref="saxophone"/>
+					<entry key="GUITAR" value-ref="guitar"/>
+				</map>
+			</property>
 		</bean>
 </beans>

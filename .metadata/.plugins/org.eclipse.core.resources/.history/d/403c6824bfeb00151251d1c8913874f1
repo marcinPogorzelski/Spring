@@ -1,0 +1,18 @@
+package com.mp.junitsample.classes;
+
+final class CalcClass {
+	
+public CalcClass(){
+	
+}
+	
+	public int addMethod(int a, int b)
+	{
+		return a + b;
+	}
+	
+	public int multiplyMethod(int a, int b){
+		return a * b;
+	}
+
+}

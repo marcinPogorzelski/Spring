@@ -1,0 +1,12 @@
+package com.mp.springidol.classes;
+
+import com.mp.springidol.interfaces.Performer;
+
+public class OneManBand implements Performer {
+
+	public void perform() throws PerformanceException {
+		// TODO Auto-generated method stub
+
+	}
+
+}
