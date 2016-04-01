@@ -6,3 +6,11 @@
 2016-03-20 18:18:19 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Piano@71bbf57e
 2016-03-20 18:18:19 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
 2016-03-20 18:18:19 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-01 20:30:20 INFO  ClassPathXmlApplicationContext:515 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7e0b37bc: startup date [Fri Apr 01 20:30:20 CEST 2016]; root of context hierarchy
+2016-04-01 20:30:20 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-04-01 20:30:21 INFO  DefaultListableBeanFactory:603 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5ae9a829: defining beans [duke,loremIpsumPoem,theStage,saxophone,guitar,auditorium,kenny,tom,hank]; root of factory hierarchy
+2016-04-01 20:30:21 INFO  Juggler:20 - Juggler.perform(): beanBags - 15
+2016-04-01 20:30:21 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Saxophone@711f39f9
+2016-04-01 20:30:21 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Piano@71bbf57e
+2016-04-01 20:30:21 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-01 20:30:21 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
