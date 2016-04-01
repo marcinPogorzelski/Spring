@@ -1,9 +1,0 @@
-package com.mp.junitsample.tests;
-
-import org.junit.Test;
-
-
-public class CalcClassTest {
-
-	 CalcClass testObj = new CalcClass
-}
