@@ -7,12 +7,12 @@ import com.mp.interfaces.IKnight;
 
 public class MainClass {
 
+	private static ApplicationContext context;
+
 	public static void main(String[] args) {
-		ApplicationContext context = 
-				new ClassPathXmlApplicationContext("Spring.xml");
+		context = new ClassPathXmlApplicationContext("Spring.xml");
 		IKnight knight = (IKnight) context.getBean("knight");
 		knight.embarkOnQuest();
-
 	}
 
 }
