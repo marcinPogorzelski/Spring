@@ -14,3 +14,35 @@
 2016-04-01 20:30:21 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Piano@71bbf57e
 2016-04-01 20:30:21 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
 2016-04-01 20:30:21 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-04 22:07:51 INFO  ClassPathXmlApplicationContext:515 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3d82c5f3: startup date [Mon Apr 04 22:07:51 CEST 2016]; root of context hierarchy
+2016-04-04 22:07:51 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-04-04 22:07:52 INFO  DefaultListableBeanFactory:603 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39c0f4a: defining beans [org.springframework.aop.config.internalAutoProxyCreator,org.springframework.aop.aspectj.AspectJPointcutAdvisor#0,duke,loremIpsumPoem,theStage,saxophone,guitar,auditorium,audience,kenny,tom,hank]; root of factory hierarchy
+2016-04-04 22:07:52 WARN  ClassPathXmlApplicationContext:487 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0': Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalArgumentException: Pointcut is not well-formed: expecting 'name pattern' at character position 59
+execution(* com.mp.springidol.interfaces.Performer.perform(...))
+                                                           ^^^
+
+2016-04-04 22:07:52 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39c0f4a: defining beans [org.springframework.aop.config.internalAutoProxyCreator,org.springframework.aop.aspectj.AspectJPointcutAdvisor#0,duke,loremIpsumPoem,theStage,saxophone,guitar,auditorium,audience,kenny,tom,hank]; root of factory hierarchy
+2016-04-04 22:08:31 INFO  ClassPathXmlApplicationContext:515 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3d82c5f3: startup date [Mon Apr 04 22:08:31 CEST 2016]; root of context hierarchy
+2016-04-04 22:08:31 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-04-04 22:08:32 INFO  DefaultListableBeanFactory:603 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39c0f4a: defining beans [org.springframework.aop.config.internalAutoProxyCreator,org.springframework.aop.aspectj.AspectJPointcutAdvisor#0,duke,loremIpsumPoem,theStage,saxophone,guitar,auditorium,audience,kenny,tom,hank]; root of factory hierarchy
+2016-04-04 22:08:32 INFO  Juggler:20 - Juggler.perform(): beanBags - 15
+2016-04-04 22:08:32 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Saxophone@2f112965
+2016-04-04 22:08:32 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Piano@1a04f701
+2016-04-04 22:08:32 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-04 22:08:32 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-04 22:09:51 INFO  ClassPathXmlApplicationContext:515 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3d82c5f3: startup date [Mon Apr 04 22:09:51 CEST 2016]; root of context hierarchy
+2016-04-04 22:09:51 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-04-04 22:09:51 INFO  DefaultListableBeanFactory:603 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@39c0f4a: defining beans [org.springframework.aop.config.internalAutoProxyCreator,org.springframework.aop.aspectj.AspectJPointcutAdvisor#0,org.springframework.aop.aspectj.AspectJPointcutAdvisor#1,duke,loremIpsumPoem,theStage,saxophone,guitar,auditorium,audience,kenny,tom,hank]; root of factory hierarchy
+2016-04-04 22:09:52 INFO  Juggler:20 - Juggler.perform(): beanBags - 15
+2016-04-04 22:09:52 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Saxophone@6193932a
+2016-04-04 22:09:52 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Piano@647fd8ce
+2016-04-04 22:09:52 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-04 22:09:52 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-04 22:11:59 INFO  ClassPathXmlApplicationContext:515 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3d82c5f3: startup date [Mon Apr 04 22:11:59 CEST 2016]; root of context hierarchy
+2016-04-04 22:11:59 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-04-04 22:12:00 INFO  DefaultListableBeanFactory:603 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@e25b2fe: defining beans [org.springframework.aop.config.internalAutoProxyCreator,org.springframework.aop.aspectj.AspectJPointcutAdvisor#0,org.springframework.aop.aspectj.AspectJPointcutAdvisor#1,org.springframework.aop.aspectj.AspectJPointcutAdvisor#2,org.springframework.aop.aspectj.AspectJPointcutAdvisor#3,duke,loremIpsumPoem,theStage,saxophone,guitar,auditorium,audience,kenny,tom,hank]; root of factory hierarchy
+2016-04-04 22:12:00 INFO  Juggler:20 - Juggler.perform(): beanBags - 15
+2016-04-04 22:12:00 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Saxophone@3cc2931c
+2016-04-04 22:12:00 INFO  Instrumentalist:14 - Instrumentalist.perform(): Instrument - com.mp.springidol.classes.Piano@20d28811
+2016-04-04 22:12:00 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
+2016-04-04 22:12:00 INFO  OneManBand:20 - OneManBand.perform(): Instrument - interface com.mp.springidol.interfaces.Instrument
