@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
@@ -62,4 +63,74 @@
 			</map>
 		</property>
 	</bean>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
+    http://www.springframework.org/schema/aop 
+    http://www.springframework.org/schema/aop/spring-aop-3.0.xsd ">
+    <aop:config>
+    	<aop:aspect ref="audience">
+    		<aop:before pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
+    		method="takeSeats"/>
+    		<aop:before pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
+    		method="turnOffCellPhones"/>
+    		<aop:after-returning 
+    		pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
+    		method="makeApplaud"/>
+    		<aop:after-throwing 
+    		pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
+    		method="demandRefund"/>
+    	</aop:aspect>
+    </aop:config>
+	<bean id="duke" class="com.mp.springidol.classes.PoeticJuggler">
+		<constructor-arg value="15"></constructor-arg>
+		<constructor-arg ref="loremIpsumPoem"></constructor-arg>
+	</bean>
+	<bean id="loremIpsumPoem" class="com.mp.springidol.classes.LoremIpsumPoem">
+	</bean>
+	<bean id="theStage" class="com.mp.springidol.classes.Stage" factory-method="getInstance">
+	</bean>
+	<bean
+		id="saxophone" 
+		class="com.mp.springidol.classes.Saxophone"></bean>
+		<bean
+		id="guitar" 
+		class="com.mp.springidol.classes.Guitar"></bean>
+	<bean 
+		id="auditorium" 
+		class="com.mp.springidol.classes.Auditorium" 
+		init-method="turnOnLights"
+		destroy-method="turnOffLights"></bean>
+	<bean id="audience"
+			class="com.mp.springidol.classes.Audience">
+	</bean>
+	<bean
+		id="kenny"
+		class="com.mp.springidol.classes.Instrumentalist"
+		p:song="Jingle Bells"
+		p:instrument-ref="saxophone">
+		</bean>
+		<bean id="tom"
+		class="com.mp.springidol.classes.Instrumentalist">
+		<property name="song" value="Tom's song"></property>
+		<property name="instrument">
+			<bean  class="com.mp.springidol.classes.Piano"></bean>
+		</property>
+		</bean>
+		<bean 
+		id="hank"
+		class="com.mp.springidol.classes.OneManBand">
+			<property name="instruments">
+				<map>
+					<entry key="SAXOPHONE" value-ref="saxophone"/>
+					<entry key="GUITAR" value-ref="guitar"/>
+				</map>
+			</property>
+		</bean>
+>>>>>>> 22b28a9de879c0adecbf016d36fab8b1b8920d8a
 </beans>
