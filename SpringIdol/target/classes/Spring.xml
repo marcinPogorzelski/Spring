@@ -1,69 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
 	xmlns:p="http://www.springframework.org/schema/p"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
     http://www.springframework.org/schema/aop 
     http://www.springframework.org/schema/aop/spring-aop-3.0.xsd ">
-    <aop:config>
-    	<aop:aspect ref="audience">
-    		<aop:before pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
-    		method="takeSeats"/>
-    		<aop:before pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
-    		method="turnOffCellPhones"/>
-    		<aop:after-returning 
-    		pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
-    		method="makeApplaud"/>
-    		<aop:after-throwing 
-    		pointcut="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
-    		method="demandRefund"/>
-    	</aop:aspect>
-    </aop:config>
+	<aop:config>
+		<aop:aspect ref="audience">
+			<aop:pointcut
+				expression="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
+				id="performance" />
+			<aop:before pointcut-ref="performance" method="takeSeats" />
+			<aop:before pointcut-ref="performance" method="turnOffCellPhones" />
+			<aop:after-returning pointcut-ref="performance"
+				method="makeApplaud" />
+			<aop:after-throwing pointcut-ref="performance"
+				method="demandRefund" />
+		</aop:aspect>
+		<aop:aspect ref="audience">
+			<aop:pointcut
+				expression="execution(* com.mp.springidol.interfaces.Performer.perform(..))"
+				id="performance2" />
+				<aop:around pointcut-ref="performance2" method="watchPerformance"/>
+		</aop:aspect>
+		<aop:aspect ref="magician">
+			<aop:pointcut expression="execution(* com.mp.springidol.classes.Volunteer.thinkOfSomething(String)) and args(thoughts)" id="thinking"/>
+			<aop:before method="interceptThoughts" pointcut-ref="thinking" arg-names="thoughts"/>
+		</aop:aspect>
+	</aop:config>
 	<bean id="duke" class="com.mp.springidol.classes.PoeticJuggler">
 		<constructor-arg value="15"></constructor-arg>
 		<constructor-arg ref="loremIpsumPoem"></constructor-arg>
 	</bean>
 	<bean id="loremIpsumPoem" class="com.mp.springidol.classes.LoremIpsumPoem">
 	</bean>
-	<bean id="theStage" class="com.mp.springidol.classes.Stage" factory-method="getInstance">
+	<bean id="theStage" class="com.mp.springidol.classes.Stage"
+		factory-method="getInstance">
 	</bean>
-	<bean
-		id="saxophone" 
-		class="com.mp.springidol.classes.Saxophone"></bean>
-		<bean
-		id="guitar" 
-		class="com.mp.springidol.classes.Guitar"></bean>
-	<bean 
-		id="auditorium" 
-		class="com.mp.springidol.classes.Auditorium" 
-		init-method="turnOnLights"
-		destroy-method="turnOffLights"></bean>
-	<bean id="audience"
-			class="com.mp.springidol.classes.Audience">
+	<bean id="magician" class="com.mp.springidol.classes.Magician"></bean>
+	<bean id="saxophone" class="com.mp.springidol.classes.Saxophone"></bean>
+	<bean id="guitar" class="com.mp.springidol.classes.Guitar"></bean>
+	<bean id="auditorium" class="com.mp.springidol.classes.Auditorium"
+		init-method="turnOnLights" destroy-method="turnOffLights"></bean>
+	<bean id="audience" class="com.mp.springidol.classes.Audience">
 	</bean>
-	<bean
-		id="kenny"
-		class="com.mp.springidol.classes.Instrumentalist"
-		p:song="Jingle Bells"
-		p:instrument-ref="saxophone">
-		</bean>
-		<bean id="tom"
-		class="com.mp.springidol.classes.Instrumentalist">
+	<bean id="kenny" class="com.mp.springidol.classes.Instrumentalist"
+		p:song="Jingle Bells" p:instrument-ref="saxophone">
+	</bean>
+	<bean id="tom" class="com.mp.springidol.classes.Instrumentalist">
 		<property name="song" value="Tom's song"></property>
 		<property name="instrument">
-			<bean  class="com.mp.springidol.classes.Piano"></bean>
+			<bean class="com.mp.springidol.classes.Piano"></bean>
 		</property>
-		</bean>
-		<bean 
-		id="hank"
-		class="com.mp.springidol.classes.OneManBand">
-			<property name="instruments">
-				<map>
-					<entry key="SAXOPHONE" value-ref="saxophone"/>
-					<entry key="GUITAR" value-ref="guitar"/>
-				</map>
-			</property>
-		</bean>
+	</bean>
+	<bean id="hank" class="com.mp.springidol.classes.OneManBand">
+		<property name="instruments">
+			<map>
+				<entry key="SAXOPHONE" value-ref="saxophone" />
+				<entry key="GUITAR" value-ref="guitar" />
+			</map>
+		</property>
+	</bean>
 </beans>

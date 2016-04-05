@@ -4,10 +4,14 @@ D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\Saxophon
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\interfaces\Performer.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\Audience.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\OneManBand.java
+D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\interfaces\MindReader.java
+D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\Magician.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\Piano.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\interfaces\Poem.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\LoremIpsumPoem.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\PoeticJuggler.java
+D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\Volunteer.java
+D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\interfaces\Thinker.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\PerformanceException.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\Juggler.java
 D:\eclipse\workspace\SpringIdol\src\main\java\com\mp\springidol\classes\MainApp.java
