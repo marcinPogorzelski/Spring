@@ -1,0 +1,408 @@
+2016-06-03 15:33:34 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-03 15:33:34 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-03 15:33:34 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-03 15:33:34 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-03 15:33:34 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-03 15:33:34 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-03 15:33:34 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-03 15:33:34 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-03 15:33:34 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-03 15:33:34 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-03 15:33:34 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-03 15:33:34 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-03 15:33:34 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-06-03 15:33:35 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2016-06-03 15:35:38 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-03 15:35:38 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-03 15:35:38 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-03 15:35:38 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-03 15:35:38 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-03 15:35:38 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-03 15:35:38 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-03 15:35:38 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-03 15:35:38 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-03 15:35:38 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-03 15:35:38 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-03 15:35:38 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-03 15:35:38 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-06-03 15:35:39 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-03 15:37:02 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-03 15:37:02 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-03 15:37:02 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-03 15:37:02 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-03 15:37:02 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-03 15:37:02 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-03 15:37:02 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-03 15:37:02 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-03 15:37:02 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-03 15:37:02 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-03 15:37:02 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-03 15:37:02 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-03 15:37:02 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-03 15:37:02 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-03 15:44:00 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-03 15:44:00 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-03 15:44:00 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-03 15:44:00 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-03 15:44:00 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-03 15:44:00 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-03 15:44:00 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-03 15:44:00 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-03 15:44:00 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-03 15:44:00 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-03 15:44:00 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-03 15:44:00 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-03 15:44:00 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-03 15:44:00 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-03 15:45:24 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-03 15:45:24 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-03 15:45:24 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-03 15:45:24 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-03 15:45:24 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-03 15:45:24 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-03 15:45:24 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-03 15:45:24 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-03 15:45:24 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-03 15:45:24 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-03 15:45:24 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-03 15:45:24 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-03 15:45:24 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-03 15:45:25 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-03 15:46:58 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-03 15:46:58 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-03 15:46:58 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-03 15:46:58 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-03 15:46:58 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-03 15:46:58 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-03 15:46:58 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-03 15:46:58 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-03 15:46:58 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-03 15:46:58 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-03 15:46:58 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-03 15:46:58 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-03 15:46:58 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-03 15:46:58 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 09:11:38 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 09:11:38 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 09:11:38 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 09:11:38 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 09:11:38 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 09:11:38 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 09:11:38 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 09:11:38 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 09:11:38 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 09:11:38 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 09:11:38 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 09:11:38 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 09:11:38 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 09:11:39 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 09:22:58 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 09:22:58 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 09:22:58 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 09:22:58 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 09:22:58 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 09:22:58 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 09:22:58 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 09:22:58 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 09:22:58 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 09:22:58 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 09:22:58 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 09:22:58 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 09:22:58 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 09:22:58 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 10:14:20 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 10:14:20 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 10:14:20 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 10:14:20 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 10:14:20 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 10:14:20 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 10:14:20 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 10:14:20 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 10:14:20 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 10:14:20 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 10:14:20 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 10:14:20 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 10:14:20 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 10:14:21 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 10:18:03 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 10:18:03 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 10:18:03 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 10:18:03 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 10:18:03 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 10:18:03 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 10:18:04 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 10:18:04 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 10:18:04 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 10:18:04 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 10:18:04 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 10:18:04 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 10:18:04 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 10:18:04 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 10:22:01 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 10:22:01 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 10:22:01 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 10:22:01 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 10:22:01 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 10:22:01 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 10:22:01 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 10:22:01 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 10:22:01 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 10:22:01 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 10:22:01 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 10:22:01 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 10:22:01 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 10:22:02 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 10:41:14 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 10:41:14 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 10:41:14 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 10:41:14 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 10:41:14 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 10:41:14 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 10:41:14 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 10:41:14 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 10:41:14 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 10:41:14 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 10:41:14 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 10:41:14 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 10:41:14 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 10:41:15 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 10:47:35 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 10:47:35 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 10:47:35 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 10:47:35 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 10:47:35 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 10:47:35 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 10:47:35 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 10:47:35 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 10:47:35 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 10:47:35 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 10:47:35 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 10:47:35 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 10:47:35 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 10:47:35 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 10:56:48 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 10:56:48 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 10:56:48 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 10:56:48 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 10:56:48 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 10:56:48 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 10:56:48 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 10:56:48 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 10:56:48 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 10:56:48 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 10:56:48 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 10:56:48 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 10:56:48 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 10:56:48 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 11:10:26 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 11:10:26 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 11:10:26 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 11:10:26 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 11:10:26 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 11:10:26 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 11:10:26 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 11:10:26 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 11:10:26 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 11:10:26 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 11:10:26 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 11:10:26 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 11:10:26 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 11:10:27 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 11:11:46 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 11:11:46 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 11:11:46 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 11:11:46 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 11:11:46 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 11:11:46 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 11:11:46 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 11:11:46 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 11:11:46 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 11:11:46 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 11:11:46 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 11:11:46 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 11:11:46 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 11:11:46 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 11:25:03 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 11:25:03 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 11:25:03 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 11:25:03 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 11:25:03 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 11:25:03 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 11:25:03 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 11:25:03 INFO  HbUtils:22 - serviceRegistry zostało skonfigurowane.
+2016-06-06 11:25:03 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 11:25:03 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 11:25:03 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 11:25:03 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 11:25:03 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 11:25:03 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 12:33:51 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 12:33:51 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 12:33:51 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 12:33:51 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 12:33:51 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 12:33:51 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 12:33:51 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 12:33:52 INFO  HbUtils:21 - serviceRegistry zostało skonfigurowane.
+2016-06-06 12:33:52 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 12:33:52 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 12:33:52 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 12:33:52 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 12:33:52 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 12:33:52 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 13:33:17 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 13:33:17 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 13:33:17 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 13:33:17 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 13:33:17 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 13:33:17 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 13:33:18 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 13:33:18 INFO  HbUtils:21 - serviceRegistry zostało skonfigurowane.
+2016-06-06 13:33:18 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 13:33:18 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 13:33:18 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 13:33:18 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 13:33:18 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 13:33:18 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 13:34:38 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 13:34:38 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 13:34:38 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 13:34:38 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 13:34:38 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 13:34:38 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 13:34:38 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 13:34:38 INFO  HbUtils:21 - builder został skonfigurowany.
+2016-06-06 13:34:38 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 13:34:38 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 13:34:38 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 13:34:38 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 13:34:38 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 13:34:38 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 13:49:52 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 13:49:52 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 13:49:52 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 13:49:52 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 13:49:52 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 13:49:52 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 13:49:52 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 13:49:52 INFO  HbUtils:22 - builder został skonfigurowany.
+2016-06-06 13:49:52 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 13:49:52 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 13:49:52 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 13:49:52 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 13:49:52 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 13:49:53 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 14:18:28 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 14:18:28 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 14:18:28 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 14:18:28 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 14:18:28 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 14:18:28 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 14:18:28 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 14:18:28 INFO  HbUtils:21 - builder został skonfigurowany.
+2016-06-06 14:18:28 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 14:18:28 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 14:18:28 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 14:18:28 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 14:18:28 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 14:18:28 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 15:11:41 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 15:11:41 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 15:11:41 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 15:11:41 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 15:11:41 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 15:11:41 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 15:11:41 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 15:11:41 INFO  HbUtils:21 - builder został skonfigurowany.
+2016-06-06 15:11:41 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 15:11:41 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 15:11:41 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 15:11:41 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 15:11:41 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 15:11:42 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 15:17:39 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 15:17:39 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 15:17:39 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 15:17:39 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 15:17:39 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 15:17:39 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 15:17:39 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 15:17:40 INFO  HbUtils:21 - builder został skonfigurowany.
+2016-06-06 15:17:40 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 15:17:40 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 15:17:40 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 15:17:40 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 15:17:40 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 15:17:40 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 15:24:35 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 15:24:35 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 15:24:35 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 15:24:35 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 15:24:35 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 15:24:35 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 15:24:35 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 15:24:35 INFO  HbUtils:21 - builder został skonfigurowany.
+2016-06-06 15:24:35 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 15:24:35 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 15:24:35 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 15:24:35 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 15:24:35 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 15:24:36 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 15:25:23 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 15:25:23 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 15:25:23 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 15:25:23 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 15:25:23 INFO  Configuration:2075 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-06 15:25:23 INFO  Configuration:2094 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-06 15:25:23 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 15:25:23 INFO  HbUtils:21 - builder został skonfigurowany.
+2016-06-06 15:25:23 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 15:25:23 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 15:25:23 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 15:25:23 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 15:25:23 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 15:25:24 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 16:07:12 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 16:07:12 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 16:07:12 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 16:07:12 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 16:07:12 INFO  Configuration:2075 - HHH000043: Configuring from resource: hibernate.cfg.xml
+2016-06-06 16:07:12 INFO  Configuration:2094 - HHH000040: Configuration resource: hibernate.cfg.xml
+2016-06-06 16:07:12 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 16:07:12 INFO  HbUtils:26 - builder został skonfigurowany.
+2016-06-06 16:07:12 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 16:07:12 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 16:07:12 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 16:07:12 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 16:07:12 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 16:07:13 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 16:10:25 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 16:10:25 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 16:10:25 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 16:10:25 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 16:10:25 INFO  Configuration:2075 - HHH000043: Configuring from resource: hibernate.cfg.xml
+2016-06-06 16:10:25 INFO  Configuration:2094 - HHH000040: Configuration resource: hibernate.cfg.xml
+2016-06-06 16:10:25 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 16:10:25 INFO  HbUtils:19 - Plik konfiguracji <<hibernate.cfg.xml>> został załadowany. 
+2016-06-06 16:10:25 INFO  HbUtils:23 - serviceRegistry - skonfigurowano.
+2016-06-06 16:10:25 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 16:10:25 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 16:10:25 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 16:10:25 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 16:10:25 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 16:10:25 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-06-06 16:13:59 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2016-06-06 16:13:59 INFO  Version:54 - HHH000412: Hibernate Core {4.3.11.Final}
+2016-06-06 16:13:59 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-06 16:13:59 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2016-06-06 16:13:59 INFO  Configuration:2075 - HHH000043: Configuring from resource: hibernate.cfg.xml
+2016-06-06 16:13:59 INFO  Configuration:2094 - HHH000040: Configuration resource: hibernate.cfg.xml
+2016-06-06 16:13:59 INFO  Configuration:2216 - HHH000041: Configured SessionFactory: null
+2016-06-06 16:13:59 INFO  HbUtils:18 - Plik konfiguracji <<hibernate.cfg.xml>> został załadowany. 
+2016-06-06 16:13:59 INFO  HbUtils:22 - serviceRegistry - skonfigurowano.
+2016-06-06 16:13:59 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-06 16:13:59 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HOTEL_RESERVATION_DB]
+2016-06-06 16:13:59 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=technicalUser, password=****}
+2016-06-06 16:13:59 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2016-06-06 16:13:59 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2016-06-06 16:13:59 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
